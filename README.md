@@ -13,3 +13,5 @@ Exemplo de um site estático usando o docker
 ```sh
   docker run -d -p 8080:3000 guilhermesantoss/static-site-docker
 ```
+
+- Link da imagem no DockerHub: https://hub.docker.com/repository/docker/guilhermesantoss/static-site-docker
