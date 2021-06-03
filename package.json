@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Guilherme Santos <g.santos.sfc@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
